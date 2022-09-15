@@ -1,0 +1,104 @@
+/* Configuracion base general */
+
+body {
+    margin: 0;
+    font-family: century gothic;
+    font-size: 20px;
+}
+
+/* Titulo y Portada de la Web */
+
+.tableheader {
+    background-color: rgb(242, 240, 240);
+    width: 100%;
+    margin: 0;
+}
+
+.perfumebg {
+    margin-right: -40px;
+}
+
+.titulobg {
+    margin-left: 50px;
+    font-size: 50px;
+    font-family: Helvetica;
+}
+
+/* Márgenes de cada sección de perfumes */
+
+.perfume1 {
+    margin-top: 20px;
+}
+
+.perfume2 {
+    margin-top: 150px;
+}
+
+.perfume3 {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+/* Configuracion General de Eternity, Foto y Detalle */
+
+.eternityimg {
+    width: 300px;
+    margin-left: 400px;
+    border: 1px solid;
+    border-radius: 8px;
+    border-color: lightgray;
+}
+
+.eternitydetalles {
+    text-align: left;
+    margin-left: 720px;
+    margin-top: -200px;
+}
+
+/* Configuracion General de AquadGio, Foto y Detalle */
+
+.aquadgioimg {
+    width: 272px;
+    margin-left: 400px;
+    border: 1px solid;
+    border-radius: 8px;
+    border-color: lightgray;
+    padding: 15px;
+}
+
+.aquadgiodetalles {
+    text-align: left;
+    margin-left: 720px;
+    margin-top: -200px;
+}
+
+/* Configuracion General de Polo, Foto y Detalle */
+
+.poloimg {
+    width: 282px;
+    margin-left: 400px;
+    border: 1px solid;
+    border-radius: 8px;
+    border-color: lightgray;
+    padding: 10px;
+}
+
+.polodetalles {
+    text-align: left;
+    margin-left: 720px;
+    margin-top: -200px;
+}
+
+/* Configuracion General del Footer, Fondo, Texto y Medidas */
+
+footer {
+    height: 3rem;
+    background-color: beige;
+}
+
+.footertext {
+    text-align: center;
+    padding-top: 10px;
+}
+
+/* Fin 10-08-2022 17:50 */
